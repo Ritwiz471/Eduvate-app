@@ -1,0 +1,16 @@
+ClassView - Online Classroom Scenario
+There is need for a clutter free, simple and lightweight online classroom application. There are several applications in the market such as Microsoft Teams and Zoom that already exist to address the issue, however most of them are large or have lots of clutter. Moreover, the alternatives are not specialized for the online classroom scenario. These application are also large and riddled with bugs. Moreover, there is the issue of some features that are in the desktop version but are not implemented in the Android or iOS versions. There is also the case that some of the features require payment (premium/paid versions). 
+ClassView is a project that seeks to address the aforementioned issues with the following functionalities for teachers and students:
+-	Provision to create, modify and delete classrooms
+-	A real-time text based communication interface between members
+-	A multimedia interface between to allow communication between a presenter and multiple listeners. 
+-	A portal to submit assignments for grading
+The team seeks to use HTML5, JavaScript, Cascading Style Sheets, PHP, MySQL, and Agora web API to implement video calling in the web application. The application consists of three main modules, namely, video calling, a chat box, and a class/team management module. BootStrap is to be used as CSS framework. The chat box feature is implemented by tapping into ReactJS (an open source front-end JavaScript library that is provided by Meta). Eduvate aims to differentiate itself from other applications in the market by:
+-	Providing an easily navigable user interface for first-time students to seamlessly attend classes and communicate with teachers as well as peers.
+-	Limiting the number of features provided to ensure a clutter free environment to enhance user experience.
+Moreover, due to its nature of being a web application, it eliminates the need for installing an application in the user client and only requires a browser to access it. The application is also free therefore providing more accessibility to users who cannot afford to pay for the premium version that other alternatives in the market provide. Moreover, being a web application it can be accessed from any device that features a web browser. The application is also uniform and does not have any features that are exclusively available for one type of device. The uniformity also increases ease of use especially for users that may b
+e new to this novel form of teaching. 
+Through the above mentioned methods Eduvate aims to be a user-friendly application that simplifies and streamlines the learning experience. Future scope includes scaling to include an assignment submission portal and attendance manager.
+
+Suraj P                                                                                                                           Rithvik Senthil
+2020103576                                                                                                                   2020103039
